@@ -1,3 +1,3 @@
-# c++test
+# c++
 
 Promedio Alumnos
